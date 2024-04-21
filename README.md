@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PolarBXD, or Ester.
-- 👀 I’m interested in becoming a FullStack.
+- 👋 Hi, I’m @MrRezy, or Ester.
+- 👀 I’m interested in becoming a GameDev.
 - 🌱 I’m currently learning programming.
 - 📫 How to reach me: souza160905@gmail.com
 
